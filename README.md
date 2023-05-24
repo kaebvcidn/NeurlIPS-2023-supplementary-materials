@@ -47,4 +47,18 @@ Accuracy on all the problems with difficulty level-5 from different categories o
 
 
 
+Additional evaluation of MathChat with two alternative prompts. 50 problems are sampled from each problem category for this evaluation. MathChat w/Two-tools and MathChat w/ Python are two alternative prompts.
+|                           | Algebra | C.Prob | I.Alg | N.Theory | Prealg | Precalc | Total |
+|---------------------------|---------|--------|-------|----------|--------|---------|-------|
+| Problem Count             | 50      | 50     | 50    | 50       | 50     | 50      | 300   |
+| **MathChat w/ Two-tools**| **33**  | 22     | 6     | 27       | 29     | 10      | 127   |
+| **MathChat w/ Python**   | 26      | 19     | 7     | 22       | **31** | **13**  | 118   |
+| **MathChat**             | 30      | **24** | 8     | **34**   | 28     | 10      | **134**|
+| PoT                       | 20      | 19     | 9     | 24       | 24     | 7       | 103   |
+| PS                        | 17      | 19     | **12**| 31       | 26     | 5       | 110   |
+| Vanilla                   | 26      | 13     | 1     | 17       | 21     | 1       | 79    |
+
+
+
+
 
