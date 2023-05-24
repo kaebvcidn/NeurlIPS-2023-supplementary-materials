@@ -51,6 +51,7 @@ Additional evaluation of MathChat with two alternative prompts. 50 problems are 
 |                           | Algebra | C.Prob | I.Alg | N.Theory | Prealg | Precalc | Total |
 |---------------------------|---------|--------|-------|----------|--------|---------|-------|
 | Problem Count             | 50      | 50     | 50    | 50       | 50     | 50      | 300   |
+|---------------------------|---------|--------|-------|----------|--------|---------|-------|
 | **MathChat w/ Two-tools**| **33**  | 22     | 6     | 27       | 29     | 10      | 127   |
 | **MathChat w/ Python**   | 26      | 19     | 7     | 22       | **31** | **13**  | 118   |
 | **MathChat**             | 30      | **24** | 8     | **34**   | 28     | 10      | **134**|
