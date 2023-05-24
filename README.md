@@ -13,14 +13,14 @@ conda env create -f environment.yml
 ## Run MathChat 
 - Use `--categories` to select category to run, and `--samples_per_category` for number of samples. The problems are randomly selected from level-5 difficulty. 
     
-    ID & Category Name
-    0 Algebra     
-    1 Counting & Probability     
-    2 Geometry    
-    3 Intermediate Algebra     
-    4 Number Theory    
-    5 Prealgebra    
-    6 Precalculus    
+    ID : Category Name
+    0 : Algebra     
+    1 : Counting & Probability     
+    2 : Geometry    
+    3 : Intermediate Algebra     
+    4 : Number Theory    
+    5 : Prealgebra    
+    6 : Precalculus    
     
 - Test on one sampled level-5 problem from each category (except geometry):
 ```python
