@@ -6,7 +6,7 @@
 ```
 conda env create -f environment.yml
 ```
-- put a valid key that can use GPT-4 in `openai.api_key`.
+- A valid key that can use GPT-4 needs to be put in `openai.api_key`.
 - If the prompt involves wolfram, an wolfram app_id is needed.
 - Customized prompt to use Python or Wolfram can be put in `prompt.py` to be tested.
 
